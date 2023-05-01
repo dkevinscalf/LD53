@@ -1,0 +1,24 @@
+﻿{
+  "Nodes": [
+    {
+      "Message": "Care dance like a true man?",
+      "CharacterId": 0,
+      "Orientation": 0
+    },
+    {
+      "Message": "When in doubt whip it out",
+      "CharacterId": 1,
+      "Orientation": 1
+    },
+    {
+      "Message": "When in doubt, whip it out, whip it out",
+      "CharacterId": 0,
+      "Orientation": 2
+    },
+    {
+      "Message": "The helicopter. The helicopter. Elevate the helicopter.",
+      "CharacterId": 1,
+      "Orientation": 3
+    }
+  ]
+}
